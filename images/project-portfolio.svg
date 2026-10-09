@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title description">
+  <title id="title">Abolanle Michael developer portfolio preview</title>
+  <desc id="description">A dark blue portfolio website with a web developer introduction and profile panel.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="1" stop-color="#10243d" />
+    </linearGradient>
+    <linearGradient id="highlight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b9dff" />
+      <stop offset="1" stop-color="#79c6ff" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#background)" />
+  <path d="M0 56h640" stroke="#d6e7ff" stroke-opacity=".12" />
+  <rect x="32" y="18" width="24" height="24" rx="5" fill="url(#highlight)" />
+  <text x="44" y="34" fill="#07111f" font-family="Arial,sans-serif" font-size="9" font-weight="700" text-anchor="middle">AM</text>
+  <text x="66" y="34" fill="#eef6ff" font-family="Arial,sans-serif" font-size="12" font-weight="600">Abolanle Michael</text>
+  <g fill="#9fb1c7" font-family="Arial,sans-serif" font-size="9">
+    <text x="383" y="34">About</text>
+    <text x="432" y="34">Skills</text>
+    <text x="471" y="34">Projects</text>
+    <text x="526" y="34">Contact</text>
+  </g>
+  <circle cx="51" cy="98" r="4" fill="#69dbb2" />
+  <text x="63" y="101" fill="#b9c8d9" font-family="Arial,sans-serif" font-size="9">AVAILABLE FOR FREELANCE PROJECTS</text>
+  <text x="40" y="145" fill="#eef6ff" font-family="Georgia,serif" font-size="27">Hi, I'm Abolanle Michael</text>
+  <text x="40" y="184" fill="#eef6ff" font-family="Arial,sans-serif" font-size="23" font-weight="700">Web Developer Building</text>
+  <text x="40" y="213" fill="url(#highlight)" font-family="Arial,sans-serif" font-size="23" font-weight="700">Modern Digital Experiences.</text>
+  <text x="40" y="244" fill="#9fb1c7" font-family="Arial,sans-serif" font-size="10">Responsive websites, thoughtful design, and clear</text>
+  <text x="40" y="259" fill="#9fb1c7" font-family="Arial,sans-serif" font-size="10">experiences made for people on every screen.</text>
+  <rect x="40" y="280" width="108" height="32" rx="6" fill="url(#highlight)" />
+  <text x="94" y="300" fill="#07111f" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">VIEW PROJECTS</text>
+  <rect x="160" y="280" width="106" height="32" rx="6" fill="#10243d" stroke="#d6e7ff" stroke-opacity=".2" />
+  <text x="213" y="300" fill="#eef6ff" font-family="Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle">LET'S WORK TOGETHER</text>
+  <rect x="354" y="82" width="246" height="188" rx="10" fill="#0c1b30" stroke="#d6e7ff" stroke-opacity=".15" />
+  <rect x="370" y="98" width="214" height="95" rx="6" fill="#07111f" />
+  <circle cx="384" cy="111" r="3" fill="#ff7d84" />
+  <circle cx="395" cy="111" r="3" fill="#ffd166" />
+  <circle cx="406" cy="111" r="3" fill="#69dbb2" />
+  <text x="424" y="114" fill="#9fb1c7" font-family="Arial,sans-serif" font-size="8">portfolio.js</text>
+  <g font-family="monospace" font-size="9">
+    <text x="383" y="137" fill="#79c6ff">const developer = {</text>
+    <text x="392" y="153" fill="#9fb1c7">role: <tspan fill="#a7e3bd">"Web Developer"</tspan>,</text>
+    <text x="392" y="169" fill="#9fb1c7">builds: <tspan fill="#a7e3bd">"digital experiences"</tspan></text>
+    <text x="383" y="184" fill="#79c6ff">};</text>
+  </g>
+  <rect x="370" y="207" width="40" height="44" rx="6" fill="#193655" />
+  <circle cx="390" cy="222" r="9" fill="#5b9dff" fill-opacity=".65" />
+  <path d="M377 246c1-8 6-12 13-12s12 4 13 12" fill="#5b9dff" fill-opacity=".5" />
+  <text x="422" y="225" fill="#eef6ff" font-family="Arial,sans-serif" font-size="11" font-weight="600">Abolanle Michael</text>
+  <text x="422" y="241" fill="#9fb1c7" font-family="Arial,sans-serif" font-size="9">Professional Web Developer</text>
+  <rect x="40" y="348" width="560" height="1" fill="#d6e7ff" fill-opacity=".12" />
+  <text x="40" y="370" fill="#9fb1c7" font-family="Arial,sans-serif" font-size="8" letter-spacing="1.2">SELECTED WORK · SKILLS · SERVICES · CONTACT</text>
+</svg>
